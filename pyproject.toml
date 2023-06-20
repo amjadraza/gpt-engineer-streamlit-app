@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "langchain-streamlit-docker-template"
+name = "gpt-engineer-streamlit-app"
 version = "0.1.0"
 description = "A template langchain Streamlit App with Docker"
 authors = ["Amjad Raza"]
@@ -9,12 +9,10 @@ packages = [{include = "langchain_streamlit_docker_template"}]
 
 
 [tool.poetry.dependencies]
-python = "^3.10"
-langchain = "0.0.184"
-openai = "0.27.7"
-streamlit = "1.22.0"
-streamlit-chat = "0.0.2.2"
-
+python = "3.10.9"
+streamlit = "^1.22.0"
+pandas = "1.3.5"
+data-analyzer = "^0.0.1"
 
 [build-system]
 requires = ["poetry-core"]

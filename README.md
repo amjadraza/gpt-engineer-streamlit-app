@@ -2,7 +2,7 @@
 📖 GPT-Engineer-Streamlit-App
 </h1>
 
-![UI](?raw=true)
+![UI](ui.PNG?raw=true)
 
 ## [GPT-Engineer](https://github.com/AntonOsika/gpt-engineer)
 

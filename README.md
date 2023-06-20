@@ -73,7 +73,7 @@ Deploy App on Streamlit Public Cloud
 This app can be deployed on Streamlit Public Cloud using GitHub. Below is the Link to 
 Publicly deployed App
 
-https://gpt-egineer-dashboard.streamlit.app/
+https://gpt-engineer-dashboard.streamlit.app/
 
 
 ## DISCLAIMER
